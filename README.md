@@ -1,5 +1,5 @@
 
-🧪 Precision@5 table (10 hand-labeled queries) for TF-IDF vs. BM25.
+### 🧪 Precision@5 table (10 hand-labeled queries) for TF-IDF vs. BM25.
 
 INFO:findex3:[build_index] виконалася за 107.78 ms
 
